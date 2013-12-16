@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bootstrap 101 Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    <style type="text/css">
+      #bod {
+        margin-top: 50px;
+        margin-bottom: 200px;
+      }
+      #title {
+        margin-bottom: 50px;
+      }
+      #contents {
+        margin-top: 175px;
+        padding-right: 10px;
+      }
+      #contents.affix {
+        position: fixed;
+        top: 0;
+        width:165px;
+      }
+      .ref {
+        margin-top: 5px;
+        margin-bottom: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container" id="bod">
+      <div class="row">
+        <div class="col-md-2">
+          <div id="contents" data-spy="affix" data-offset-top="60" data-offset-bottom="200">
+            <ul class="nav nav-list">
+              <li><a href="#title">"A Series Of Tubes"</a></li>
+              <li><a href="#define">Defined and Debated</a></li>
+              <li><a href="#congress">Congress</a></li>
+              <li><a href="#fcc">Federal Communications Commission</a></li>
+              <li><a href="#references">References</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-10">
+          <div class="row" style="text-align:center" id="title">
+            <h1>"A Series Of Tubes"</h1>
+            Samuel Daniel<br/>
+            <a href="mailto:samuel.daniel@tufts.edu">samuel.daniel@tufts.edu</a><br/>
+            COMP-150IDS - Fall 2013 - Tufts University<br/>
+          </div>
+          <div class="row">
+            <div class="jumbotron">
+              <div style="text-align:left; font-size: 1.75em">
+                <p>"And again, the Internet is not something you just dump something on.
+                It's not a truck. It's a series of tubes."</p>
+              </div>
+              <div style="text-align:right;">
+                <p>~ Senator Ted Stevens, Senate Commerce Committee Hearing, 28 June 2006 
+                <sup><a href="#1">[1]</a></sup>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="row" id="intro">
+            <p>
+            On June 28, 2006, a hearing in the Senate Commerce Committee had reached a stalemate. The committee had voted 11 to 11 on an amendment to a telecommuncations bill that would have prevented Internet service providers from charging extra fees to companies wanting better access to the Internet. Senator Ted Stevens, a member of the committee, had voted against the amendment, arguing that "The regulatory approach is wrong. Your approach is regulatory in the sense that it says 'No one can charge anyone for massively invading this world of the Internet'."<sup><a href="#1">[1]</a></sup> Stevens' believed that Internet service providers (the owners and operators of the aforementioned "tubes") should be able to directly manage packets coming from high-traffic sources, and even charge these customers more for Internet access. The senator offered some anecdotal evidence to support his position: "I just the other day got, an Internet was sent by my staff at 10 o'clock in the morning on Friday and I just got it yesterday. Why? Because it got tangled up with all these things going on the Internet commercially."<sup><a href="#1">[1]</a></sup>
+            </p>
+            <p>
+            (An explanation of why the Senator's Internet took so long to reach him is beyond the scope of this paper. Click <a href="http://www.wired.com/threatlevel/2006/06/senator_stevens/">here</a> for details.)
+            </p>
+            <p>
+            Senator Steves' oversimplified metaphor for the inner workings of the Internet immediately became a rallying cry for those opposed to his views. The Daily Kos, a progressive-leaning blog about American politics called the Senator an "ignoramus".<sup><a href="#2">[2]</a></sup> Other detractors labeled Stevens as "old and out-of-touch".<sup><a href="#3">[3]</a></sup> The "web zine" Boing Boing labeled Stevens a "neutricidal maniac" in reference to Stevens' clumsily stated opposition to the idea known as net neutrality. <sup><a href="#4">[4]</a></sup>
+            </p>
+          </div>
+          <div class="row" id="define">
+            <div class="row" style="text-align:center">
+              <h2>Network Neutrality: Defined and Debated</h2>
+            </div>
+            <p>
+            Net neutrality is a network design principle. Tim Wu, a professor at Columbia Law School, presents an articulate definition of net neutrality on his website:</p>
+            <div class="row">
+              <div class="jumbotron">
+                <div style="text-align:left;">
+                  "The idea is that a maximally useful public information network aspires to treat all content, sites, and platforms equally. This allows the network to carry every form of information and support every kind of application. The principle suggests that information networks are often more valuable when they are less specialized - when they are a platform for multiple uses, present and future."<sup><a href="#5">[5]</a></sup>
+                </div>
+              </div>
+            </div>
+            <p>
+            The debate that inspired Senator Stevens and his opponents focuses on whether or not the principle of net neutrality should be enforced by laws and regulations governing Internet service providers. Advocates of net neutrality believe that Internet service providers should not be able to control or restrict how their customers use the Internet. Such advocates feel that net neutrality needs to be legally enforced in order to ensure a competitive marketplace and to protect the future growth and development of the Internet. Opponents of net neutrality argue that existing laws and regulations are more than capable of handling any issues of anti-competition. They also believe that further regulation of the Internet would actually negatively affect its future.<sup><a href="#6">[6]</a></sup>
+            </p>
+            <p>
+            A loss of net neutrality for the Internet and the World Wide Web would mean that Internet service providers would be able to prioritize certain types of Internet traffic over others, potentially penalizing websites and services that did not pay extra fees for their extra bandwidth usage. ISPs would be able to provide higher quality service to the prioritized data, but consumers wanting to send and receive non-prioritized data would be met with much slower speeds and a degraded quality of service.
+            </p>
+            <p>
+            Despite Senator Stevens' apparent ignorance, some reporters and scholars came to the defense of his "tubes" metaphor. Ed Felten, a professor of computer science and public affairs at Princeton University, as well as Declan McCullagh, a writer for CNET, both noted that Stevens' "tubes" are not a far cry from the "pipes" that engineers and scientists talk about all the time in a variety of contexts. Both note that Stevens immediately became an object of public ridicule because he so awkwardly voiced a seemingly unintelligent opinion that went against public opinion. Stevens' comments and the public's reaction highlight the fact that the net neutrality debate is one that boils the blood of politicians, corporations, and citizens alike.<sup><a href="#7">[7]</a></sup><sup><a href="#8">[8]</a></sup>
+            </p>
+          </div>
+          <div class="row" id="congress">
+            <div class="row" style="text-align: center;">
+              <h2>Net Neutrality in Congress</h2>
+            </div>
+            <p>
+            There has been a lot of Congressional activity regarding net neutrality in the past ten years. Despite public support as well as limited bipartisan support, the legislation mentioned below - except for the Telecommunications Act of 1996 - all represent failed attempts to codify some or all of the principles of net neutrality as federal law. Any proposed Congressional action on the issue has been pro-net neutrality. Members of Congress who oppose net neutrality have not introduced any legislation to support their views, thus perpetuating the anti-net neutrality position that existing laws and the courts are more than capable of handling any issues that may arise.
+            </p>
+            <h3>Telecommunications Act of 1996</h3>
+            <p>
+            The Telecommunications Act of 1996, signed into law by President Clinton, was the first major piece of legislation to directly include the then-nacent Internet.While very specific about how the telephone market should be treated, the Telecommunications Act ultimately leaves regulation of the Internet to the Federal Communications Commission. More specifically, the Act grants the FCC powers to arbitrate "price cap regulation, regulatory forbearance, measures that promote competition in the local telecommunications market, or other regulating methods that remove barriers to infrastructure investment".<sup><a href="#9">[9]</a></sup>
+            </p>
+            <p>
+            The language used in the Act to describe the FCC's powers is rather vague, thus calling into question whether the FCC actually has the legal power to enforce net neutrality regulation. If the FCC attempted to enact net neutrality protections that an ISP did not like, then that ISP might challenge the FCC's fiat in a court. Under the language of the Telecommunications Act, a judge could rule that FCC has no power to enforce how ISPs treat the Internet traffic flowing through their systems. Such uncertainty implies that the best path towards net neutrality legislation lies with Congress.<sup><a href="#9">[9]</a></sup>
+            </p>
+            <h3>Internet Freedom and Nondiscrimination Act of 2006, 2008</h3>
+            <p>
+            In 2006, Representative James Sensenbrenner Jr., a Republican from Wisconsin, introduced the Internet Freedom and Nondiscrimination Act to the House Judiciary Committee. The bill amended the Clayton Antitrust Act to prohibit a broadband Internet provider from "failing to provide its services on reasonable and nondiscriminatory terms"<sup><a href="#10">[10]</a></sup> and effectively making net neutrality federal law. Internet service providers would have been barred from preventing impairing a person's ablity to access or even offer content over the Internet. Most importantly, if an ISP prioritized any type of Internet traffic, then it must prioritize all data of that class without charging any extra fees.
+            </p>
+            <p>
+            This law would have provided proponents of net neutrality with almost every protection they might have wanted. ISPs would not be able to unfairly penalize consumers or content providers. But the bill never made its way out of the Judiciary committee. In 2008, Representative John Conyers Jr., a Democrat from Michigan, introduced a nearly identical bill with the same name which also did not become law.<sup><a href="#11">[11]</a></sup>
+            </p>
+            <h3>Internet Freedom and Preservation Act of 2009</h3>
+            <p>
+            Introducted by Representative Edward Markey, a Democrat from the Massachusetts 5th District, the Internet Freedom and Preservation Act of 2009 aimed to establish a nation-wide standard of non-discrimination of traffic and openness regarding public Internet access. The bill also required that Internet service providers offer stand-alone Internet access packages to consumers as well as transparency about the speed, nature, limitations, and network management practices of the services being offered. Responsibility for implementing and enforcing the terms of the legislation fell to the FCC. This bill did not become law.<sup><a href="#6">[6]</a></sup>
+            </p>
+            <h3>Broadband Internet Fairness Act of 2009</h3>
+            <p>
+            Introduced by Representative Eric Massa, a Democrat from New York, the Broadband Internet Fairness Act required any ISP with over two million subcribers that sought to offer a metered, usage-based Internet service plan to submit their proposal for review by the Federal Trade Commission, with consultation from the FCC. The regulatory bodies would "ensure that such plans are fairly based on cost" and any plan deemed to be "unreasonable" would be declared unlawful. This bill did not become law.<sup><a href="#6">[6]</a></sup>
+            </p>
+          </div>
+          <div class="row" id="fcc">
+            <div class="row" style="text-align: center;">
+              <h2>Net Neutrality and the Federal Communications Commission</h2>
+            </div>
+            <p>
+            The FCC claims most of its regulatory power over the Internet landscape from both the Communications Act of 1934 and the Telecommunications Act of 1996, however, any of its decisions or orders can be challenged in court and possibly overturned due to the vagaries of the 1934 and 1996 laws. The FCC's policy- and decision- making has been staunchly in favor of net neutrality, however, as of this writing, recent statements by the current chairman of the FCC indicate that the body may be shifting its position.
+            </p>
+            <h3>Internet Policy Statement of 2005</h3>
+            <p>
+            In the summer of 2005, a Supreme Court decision upheld an FCC policy from 2002 that classified cable Internet services as "interstate information services" under Title I of the Communications Act of 1934, thus entitling the FCC to regulatory authority over such services. The FCC subsequently issued a statement outlining four principles that would guide the body's policymaking:
+            </p>
+            <div class="row">
+              <div class="jumbotron">
+                <div style="text-align:left;">
+                  <ol>
+                    <li>"consumers are entitled to access the lawful Internet content of their choice"</li>
+                    <li>"consumers are entitled to run applications and services of their choice (subject to the needs of law enforcement)"</li>
+                    <li>"consumers are entitled to connect their choice of legal devices that do not harm the network"</li>
+                    <li>"consumers are entitled to competition among network providers, application and service providers, and content providers"<sup><a href="#6">[6]</a></sup></li>
+                  </ol>
+                </div>
+              </div>
+            </div>
+            <h3>Comcast and the FCC - 2008</h3>
+            <p>
+            In August 2008, the FCC was made aware that Comcast was actively singling out and blocking peer-to-peer Internet traffic. The FCC felt that Comcast was interfering with their customers' ability to "run applications and services of their choice"<sup><a href="#6">[6]</a></sup>, as per the commission's 2005 policy statement. The commission did not impose a monetary penalty but did require Comcast to halt its blocking of peer-to-peer applications by the end of the year.
+            </p>
+            <p>
+            Rather than blocking traffic related to specific applications, Comcast began to manage its network by throttling the throughput of heavy users located in traffic-congested areas. This practice complied the FCC's policy that network management be application agnostic.
+            </p>
+            <p>
+            Despite the compliant nature of Comcast's new network management practices, the company filed an appeal arguing that the FCC did not have the legal authority to enforce its policies in the first place. The FCC claimed regulatory authority from Title I of Communications Act of 1934. But the court ruled 3-0 that the FCC had overstepped its authority, thus annuling the commission's 2008 directive to Comcast.
+            </p>
+            <p>
+            The loss in court did not phase FCC Chairman Julius Genachowski. He stated that the decicison "does not change our broadband policy goals, or the ultimate authority of the FCC to act to achieve those goals".<sup><a href="#6">[6]</a></sup>
+            </p>
+            <h3>Open Internet Order of 2010</h3>
+            <p>Chairman Genachowski remained true to his word and in December of 2010 set out to expand upon the FCC's policies from 2005. The Open Internet Order's goal was to establishing net neutrality on the Internet through three rules:</p>
+            <div class="row">
+              <div class="jumbotron">
+                <div style="text-align:left;">
+                  <ol>
+                    <li>"fixed and mobile broadband Internet service providers are required to publically disclose accurate information regarding network management practices, performance, and commercial terms to consumers and as well as content, application, service, and device providers"</li>
+                    <li>"fixed and mobile broadband Internet service providers are both subject, to varying degrees, to no blocking requirements"</li>
+                    <li>"fixed broadband Internet service providers are subject to a “no unreasonable discrimination rule” that states that they shall not unreasonably discriminate in transmitting lawful network traffic over a consumer’s broadband Internet access service"<sup><a href="#6">[6]</a></sup></li>
+                  </ol>
+                </div>
+              </div>
+            </div>
+            <p>
+            The Open Internet Order did not explicitly prohibit paid prioritization of Internet traffic, though it noted that this method would likely be considered "unreasonable discrimination". The order also did not explicitly prohibit metered, usage-based pricing plans. If ISPs were prevented from charging heavy users of their networks more money, then ISPs would ultimately be "[forcing] lighter end users of the network to subsidize heavier end users"<sup><a href="#6">[6]</a></sup>, a phenomena that FCC stated in the Open Internet Order that it would like to prevent.<sup><a href="#12">[12]</a></sup>
+            </p>
+            <p>
+            It is important to note that the third goal of the Open Internet Order applies only to "fixed broadband Internet service providers," not both "fixed and mobile" like the first two goals. Genachowski, though willing to impose net neutrality regulation on fixed ISPs, seemed unwilling to impose such regulation on mobile providers. This decision drew public criticism of both Genachowski and the Open Internet Order. But the chairman maintained his belief that the mobile Internet market needed to be regulated differently, arguing that the wireless market, compared to its wired companion, is more competitive and too different on a technical level to regulate in the exact same manner.<sup><a href="#13">[13]</a></sup>
+            </p>
+            <h3>Recent Developments</h3>
+            <p>
+            In early 2013, the FCC chairman who spearheaded the Open Internet Order of 2010 stepped down from his position. President Obama nominated Tom Wheeler, a "former top lobbyist for the cable and wireless industries"<sup><a href="#14">[14]</a></sup>. Wheeler's ties to the telecom industry received mixed reactions from the public: some felt that his past experience would be extremely useful as chairman of the FCC; others felt that he was too close to the corporations that he might soon be regulating. Wheeler was confirmed in late 2013. In an interview with "The Verge", Wheeler stated that "[The FCC has] to make sure that where [competition] exists, it continues to exist" and that "[the FCC] is pro-open networks."
+            </p>
+          </div>
+          <div class="row" id="references">
+            <div class="row" style="text-align:center">
+              <h2>References</h2>
+            </div>
+            <div class="ref" id="1">[1]: Wired Blogs. "Your Own Personal Internet." Wired.com. Conde Nast Digital, 30 June 2006. Web. 15 Dec. 2013. <a href="http://www.wired.com/threatlevel/2006/06/your_own_person/">http://www.wired.com/threatlevel/2006/06/your_own_person/</a>.</div>
+            <div class="ref" id="2">[2]: Kos. "Ted Stevens on the Internets." Daily Kos. Kos Media, LLC, 2 July 2006. Web. 15 Dec. 2013. <a href="http://www.dailykos.com/story/2006/07/02/224044/-Ted-Stevens-on-the-internets">http://www.dailykos.com/story/2006/07/02/224044/-Ted-Stevens-on-the-internets</a>.</div>
+            <div class="ref" id="3">[3]: Subscription. "Immortalizing Ted Stevens, Net Neutrality for Posterity." MediaPost Publications. MediaPost Communications, 8 Aug. 2006. Web. 15 Dec. 2013. <a href="http://www.mediapost.com/publications/article/46525/immortalizing-ted-stevens-net-neutrality-for-post.html">http://www.mediapost.com/publications/article/46525/immortalizing-ted-stevens-net-neutrality-for-post.html</a>.</div>
+            <div class="ref" id="4">[4]: Doctorow, Cory. "Sen. Stevens' Hilariously Awful Explanation of The Internet." Boing Boing. Boing Boing, 2 July 2006. Web. 15 Dec. 2013. <a href="http://boingboing.net/2006/07/02/sen-stevens-hilariou.html">http://boingboing.net/2006/07/02/sen-stevens-hilariou.html</a>.</div>
+            <div class="ref" id="5">[5]: Wu, Tim. "Network Neutrality FAQ." N.p., n.d. Web. 15 Dec. 2013. <a href="http://www.timwu.org/network_neutrality.html">http://www.timwu.org/network_neutrality.html</a>.</div>
+            <div class="ref" id="6">[6]: Gilroy, Angele A. "Access to Broadband Networks: The Net Neutrality Debate." Federation of American Scientists. Congressional Research Service, 14 Feb. 2013. Web. 15 Dec. 2013. <a href="http://www.fas.org/sgp/crs/misc/R40616.pdf">http://www.fas.org/sgp/crs/misc/R40616.pdf</a>.</div>
+            <div class="ref" id="7">[7]: McCullagh, Declan. "'Series of Tubes' Senator Convicted of Corruption." CNET News. CBS Interactive, 27 Oct. 2008. Web. 15 Dec. 2013. <a href="http://news.cnet.com/8301-13578_3-10076855-38.html">http://news.cnet.com/8301-13578_3-10076855-38.html</a>.</div>
+            <div class="ref" id="8">[8]: Felten, Ed. "Taking Stevens Seriously." Freedom to Tinker. Center for Information Technology Policy, 17 July 2006. Web. 15 Dec. 2013. <a href="https://freedom-to-tinker.com/blog/felten/taking-stevens-seriously/">https://freedom-to-tinker.com/blog/felten/taking-stevens-seriously/</a>.</div>
+            <div class="ref" id="9">[9]: Waltzman, Howard. "The Telecommunications Act of 1996 in the Twenty-first Century." The Federalist Society for Law and Public Policy Studies. The Federalist Society, 5 Feb. 2013. Web. 15 Dec. 2013. <a href="http://www.fed-soc.org/publications/detail/the-telecommunications-act-of-1996-in-the-twenty-first-century">http://www.fed-soc.org/publications/detail/the-telecommunications-act-of-1996-in-the-twenty-first-century</a>.</div>
+            <div class="ref" id="10">[10]: "H.R. 5417 (109th): Internet Freedom and Nondiscrimination Act of 2006." Govtrack.us. Civic Impulse, LLC, n.d. Web. 15 Dec. 2013. <a href="https://www.govtrack.us/congress/bills/109/hr5417#overview">https://www.govtrack.us/congress/bills/109/hr5417#overview</a>.</div>
+            <div class="ref" id="11">[11]: "H.R. 5994 (110th): Internet Freedom and Nondiscrimination Act of 2008." Govtrack.us. Civic Impulse, LLC, n.d. Web. 15 Dec. 2013. <a href="https://www.govtrack.us/congress/bills/110/hr5994#overview">https://www.govtrack.us/congress/bills/110/hr5994#overview</a>.</div>
+            <div class="ref" id="12">[12]: Phillips, Abigail. "Part I: FCC "Ancillary" Authority to Regulate the Internet? Don't Count on It." Electronic Frontier Foundation. Electronic Frontier Foundation, 3 Feb. 2011. Web. 15 Dec. 2013. <a href="https://www.eff.org/deeplinks/2011/02/part-i-fcc-ancillary-authority-regulate-internet">https://www.eff.org/deeplinks/2011/02/part-i-fcc-ancillary-authority-regulate-internet</a>.</div>
+            <div class="ref" id="13">[13]: Patel, Nilay. "Former FCC Chairman Julius Genachowski: 'people Have the Right to Send and Receive Information over the Internet, Period'" The Verge. Vox Media, Inc., 5 June 2013. Web. 15 Dec. 2013. <a href="http://www.theverge.com/2013/6/5/4395830/fcc-chairman-julius-genachowski-exit-interview">http://www.theverge.com/2013/6/5/4395830/fcc-chairman-julius-genachowski-exit-interview</a>.</div>
+            <div class="ref" id="14">[14]: Brodkin, Jon. "New FCC Chairman Is “former Lobbyist for Cable and Wireless Industries"" Ars Technica. Condé Nast, 30 Apr. 2013. Web. 15 Dec. 2013. <a href="http://arstechnica.com/tech-policy/2013/04/new-fcc-chairman-is-former-lobbyist-for-cable-and-wireless-industries/">http://arstechnica.com/tech-policy/2013/04/new-fcc-chairman-is-former-lobbyist-for-cable-and-wireless-industries/</a>.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

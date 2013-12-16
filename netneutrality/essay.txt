@@ -1,0 +1,221 @@
+"A Series Of Tubes"
+====================
+
+"And again, the Internet is not something you just dump something on. It’s not a truck. It’s a series of tubes."
+~ Senator Ted Stevens, Senate Commerce Committee Hearing, 28 June 2006
+
+On June 28, 2006, a hearing in the Senate Commerce Committee had reached a stalemate. The committee had voted 11 to 11 on amendment to a telecommuncations bill that would have prevented Internet service providers from charging extra fees to companies wanting better access to the Internet. Senator Ted Stevens, a member of the committee, had voted against the amendment, arguing that "The regulatory approach is wrong. Your approach is regulatory in the sense that it says 'No one can charge anyone for massively invading this world of the Internet'." Stevens' believed that Internet service providers (the owners and operators of the aforementioned "tubes") should be able to directly manage packets coming from high-traffic sources, and even charge these customers more for Internet access. The senator even offered some anecdotal evidence to support his position: "I just the other day got, an Internet was sent by my staff at 10 o’clock in the morning on Friday and I just got it yesterday. Why? Because it got tangled up with all these things going on the Internet commercially." 
+http://www.wired.com/threatlevel/2006/06/your_own_person/
+
+(An explanation of why the Senator's Internet took so long to reach him is beyond the scope of this paper. Please see http://www.wired.com/threatlevel/2006/06/senator_stevens/ for details.)
+
+Senator Steves' oversimplified metaphor for the inner workings of the Internet immediately became a rallying cry for those opposed to his views. The Daily Kos, a progressive-leaning blog about American politics called the Senator an "ignoramus". http://www.dailykos.com/story/2006/07/02/224044/-Ted-Stevens-on-the-internets Other detractors labeled Stevens as "old and out-of-touch". http://www.mediapost.com/publications/article/46525/immortalizing-ted-stevens-net-neutrality-for-post.html The "web zine" Boing Boing labeled Stevens a "neutricidal maniac" in reference to Stevens' clumsily stated opposition to the idea known as net neutrality. http://boingboing.net/2006/07/02/sen-stevens-hilariou.html
+
+
+Network Neutrality: Defined and Debated
+========================================
+Net neutrality is a network design principle. Tim Wu, a professor at Columbia Law School, presents an exceptionally articulate definition of net neutrality on his website: "The idea is that a maximally useful public information network aspires to treat all content, sites, and platforms equally. This allows the network to carry every form of information and support every kind of application. The principle suggests that information networks are often more valuable when they are less specialized – when they are a platform for multiple uses, present and future." 
+http://www.timwu.org/network_neutrality.html
+
+The debate that inspired Senator Stevens and his opponents is about whether or not the principle of net neutrality should be enforced by laws and regulations governing Internet service providers. Advocates of net neutrality believe that Internet service providers should not be able to control or restrict how their customers use the Internet. Many feel that net neutrality needs to be legally enforced in order to ensure a competitive marketplace and to protect the future growth and development of the Internet. Opponents of net neutrality argue that existing laws and regulations are more than capable of handling any issues of anti-competition. They also believe that further regulation of the Internet would actually negatively affect its future.
+http://www.fas.org/sgp/crs/misc/R40616.pdf
+
+Despite Senator Stevens' apparent ignorance, some reporters and scholars actually came to the defense of his "tubes" metaphor. Ed Felten, a professor of computer science and public affairs at Princeton University, as well as Declan McCullagh, a writer for CNET, both noted that Stevens' "tubes" are not a far cry from the "pipes" that engineers and scientists talk about all the time in a variety of contexts. Both note that Stevens immediately became an object of ridicule because he so awkwardly voiced a seemingly unintelligent opinion that went against something that a large portion of the public vocally favors. Stevens' comments and the subsequent reaction highlight the fact that the net neutrality debate is one that boils the blood of politicians, corporations, and citizens alike.
+http://news.cnet.com/8301-13578_3-10076855-38.html
+https://freedom-to-tinker.com/blog/felten/taking-stevens-seriously/
+
+Congressional Activity
+=======================
+There has been a lot of Congressional activity regarding net neutrality in the past ten years. Despite both public and limited bipartisan support, the legislation mentioned below - except for the Telecommunications Act of 1996 - all represent failed attempts to codify some or all of the principles of net neutrality as federal law. Any proposed Congressional action on the issue has been pro-net neutrality. Members of Congress who oppose net neutrality have not introduced any legislation to support their views, thus furthering the argument that existing laws and the courts are more than capable of handling any issues that may arise.
+
+Telecommunications Act of 1996
+-------------------------------
+The Telecommunications Act of 1996, signed into law by President Clinton, was the first major piece of legislation to directly include the then-nacent Internet. Other than laws that criminalize hacking and copyright violations and protect children, the Act is still the only major federal law regulating the Internet as a market. While very specific about how the telephone market should be treated, the Act ultimately leaves regulation of the Internet to the Federal Communications Commission. More specifically, the Act grants the FCC powers to arbitrate “price cap regulation, regulatory forbearance, measures that promote competition in the local telecommunications market, or other regulating methods that remove barriers to infrastructure investment”. 
+
+The language used in the Act to describe the FCC's powers is rather vague, thus calling into question whether the FCC actually has the legal power to enforce net neutrality regulation. If the FCC attempted to enact net neutrality protections that an ISP did not like, then that ISP might challenge the FCC's fiat in a court. Under the language of the Act, a judge could easily rule that FCC has no power to enforce how ISPs treat any of the Internet traffic flowing their systems. Such uncertainty implies that the best path towards net neutrality legislation lies with Congress.
+http://www.fed-soc.org/publications/detail/the-telecommunications-act-of-1996-in-the-twenty-first-century
+
+Internet Freedom and Nondiscrimination Act of 2006, 2008
+---------------------------------------------------------
+In 2006, Representative James Sensenbrenner Jr., a Republican from Wisconsin, introduced the Internet Freedom and Nondiscrimination Act to the House Judiciary Committee. The bill amended the Clayton Antitrust Act to prohibit a broadband Internet provider from "failing to provide its services on reasonable and nondiscriminatory terms" and effectively making net neutrality federal law. Internet service providers would have been barred from preventing impairing a person's ablity to access or even offer content over the Internet. Most importantly, if an ISP prioritized any type of Internet traffic, then it must prioritize all data of that class without charging any extra fees. 
+
+This law would have provided proponents of net neutrality with almost every protection they might have wanted. ISPs would not be able to unfairly penalize consumers or content providers. But this bill never made its way out of the Judiciary committee. In 2008, Representative John Conyers Jr., a Democrat from Michigan, introduced a nearly identical bill with the same name.
+
+https://www.govtrack.us/congress/bills/109/hr5417#overview
+https://www.govtrack.us/congress/bills/110/hr5994#overview
+
+Internet Freedom and Preservation Act of 2009
+----------------------------------------------
+Introducted by Representative Edward Markey, a Democrat from Massachusetts, the Internet Freedom and Preservation Act of 2009 aimed to establish a nation-wide standard of nondiscrimination and openness regarding public Internet access. The bill also required that Internet service providers offer stand-alone Internet access packages to consumers as well as transparency about the speed, nature, limitations, and network management practices of the services being offered. Responsibility for implementing and enforcing the term of the legislation fell to the FCC.
+http://www.fas.org/sgp/crs/misc/R40616.pdf
+
+Broadband Internet Fairness Act of 2009
+----------------------------------------
+Introduced by Representative Eric Massa, a Democrat from New York, the Broadband Internet Fairness Act required any ISP with over two million subcribers that sought to offer a metered Internet plan to submit their proposal for review by the Federal Trade Commission, with consultation from the FCC. The regulatory bodies would "ensure that such plans are fairly based on cost" and any plan deemed to be "unreasonable" would be declared unlawful.
+http://www.fas.org/sgp/crs/misc/R40616.pdf
+
+Federal Communications Commission Activity
+===========================================
+The FCC claims most of its regulatory power over the Internet landscape from both the Communications Act of 1934 and the Telecommunications Act of 1996, however, any of its decisions or orders can be challenged in court and possibly overturned due to the vagaries of the 1934 and 1996 laws. The FCC's policy- and decision- making has been staunchly in favor of net neutrality, however, as of this writing, recent statements by the current chairman of the FCC indicate that the body may be shifting its position.
+
+Internet Policy Statement of 2005
+----------------------------------
+In the summer of 2005, a Supreme Court decision upheld an FCC policy from 2002 that classified cable Internet services as "interstate information services" under Title I of the Communications Act of 1934, thus entitling the FCC to regulatory authority over such services. The FCC accordingly issued a statement outlining four principles that would guide the body's policymaking:
+(1) consumers are entitled to access the lawful
+Internet content of their choice; 
+(2) consumers are entitled to run applications and services of
+their choice (subject to the needs of law enforcement); 
+(3) consumers are entitled to connect their
+choice of legal devices that do not harm the network; 
+(4) consumers are entitled to
+competition among network providers, application and service providers, and content providers. 
+http://www.fas.org/sgp/crs/misc/R40616.pdf
+
+Comcast and the FCC - 2008
+----------------------
+In August 2008, the FCC was made aware that Comcast was actively singling out and blocking peer-to-peer Internet traffic. The FCC felt that Comcast was interfering with their customers' abilite to "run applications and services of their choice", as per the commission's 2005 policy statement. The commission did not impose a monetary penalty but did require Comcast to halt its blocking of peer-to-peer applications by the end of the year.
+
+Rather than blocking traffic related to specific applications, Comcast began to manage its network by throttling the throughput of heavy users located in highly traffic-congested areas. This practice complied the FCC's policy that network management be application agnostic.
+
+Despite the compliant nature of Comcast's new network management practices, the company filed an appeal arguing that the FCC did not have the legal authority to enforce its policies in the first place. The FCC claimed regulatory authority from Title I of Communications Act of 1934. But the court ruled 3-0 that the FCC overstepped its authority, thus annuling the commission's 2008 order.
+
+The loss in court did not phase FCC Chairman Julius Genachowski. He stated that the decicison "does not change our broadband policy goals, or the ultimate authority of the FCC to act to achieve those goals". 
+http://www.fas.org/sgp/crs/misc/R40616.pdf
+
+Open Internet Order of 2010
+----------------------------
+Chairman Genachowski remained true to his word and in December of 2010 set out to expand the FCC's policies from 2005 with the Open Internet Order. The order's goal was to establishing net neutrality on the Internet through three rules:
+1) "fixed and mobile broadband Internet service providers are required to publically
+disclose accurate information regarding network management practices,
+performance, and commercial terms to consumers and as well as content,
+application, service, and device providers"
+2) "fixed and mobile broadband Internet service providers are both subject, to
+varying degrees, to no blocking requirements"
+3) "fixed broadband Internet service providers are subject to a “no unreasonable
+discrimination rule” that states that they shall not unreasonably discriminate in
+transmitting lawful network traffic over a consumer’s broadband Internet access
+service"
+
+The Open Internet Order did not explicitly prohibit paid prioritization of Internet traffic, though it noted that this method would be unlikely to pass the "unreasonable discrimination" rule. The order also did not explicitly prohibit usage-based pricing plans. If ISPs were prevented from charging heavy users of their networks more money, then ISPs would ultimately be 
+"[forcing] lighter end users of the network to subsidize heavier end users", a phenomena that FCC stated in the Open Internet Order that it would like to prevent.
+
+After the order went into effect in November 2011, Verizon and MetroPCS both sought reviews of the order, arguing that, once again, the FCC has overstepped its authority. 
+
+http://www.fas.org/sgp/crs/misc/R40616.pdf
+https://www.eff.org/deeplinks/2011/02/part-i-fcc-ancillary-authority-regulate-internet
+
+It is important to note that the third goal of the Open Internet Order applies only to "fixed broadband Internet service providers," not both "fixed and mobile" like the first two goals. Genachowski, though willing to impose net neutrality regulation on fixed ISPs, seemed unwilling to impose such regulation on mobile providers. This decision drew public criticism of both Genachowski and the Open Internet Order. But the chairman maintained his belief that the mobile Internet market needed to be regulated differently, arguing that the wireless market is much more competitive than its wired companion 
+http://arstechnica.com/tech-policy/2013/04/new-fcc-chairman-is-former-lobbyist-for-cable-and-wireless-industries/
+http://www.theverge.com/2013/6/5/4395830/fcc-chairman-julius-genachowski-exit-interview
+
+Recent Developments
+--------------------
+In early 2013, the FCC chairman who spearheaded the Open Internet Order of 2010 stepped down from his position. President Obama nominated Tom Wheeler, a "former top lobbyist for the cable and wireless industries". Wheeler's ties to the telecom industry received mixed reactions from the public: some felt that his past experience would be extremely useful as chairman of the FCC; others felt that he was too close to the corporations that he might soon be regulating.
+http://arstechnica.com/tech-policy/2013/04/new-fcc-chairman-is-former-lobbyist-for-cable-and-wireless-industries/
+
+Wheeler was confirmed in late 2013. In an interview with "The Verge", Wheeler stated that "[The FCC has] to make sure that where [competition] exists, it continues to exist" and that "[the FCC] is pro-open networks."
+http://www.theverge.com/2013/11/16/5108920/new-fcc-chairman-tom-wheeler-starts-term-on-pro-consumer-note
+
+But less than a month after that interview, Wheeler presented conflicted views regarding net neutrality. While answering question at Ohio State University, the new chairman said: 
+"I am a firm believer in the market. I think we’re also going to see a two-sided market where Netflix might say, ‘well, I’ll pay in order to make sure that you might receive, my subscriber receives, the best possible transmission of this movie.’ I think we want to let those kinds of things evolve. We want to observe what happens from that, and we want to make decisions accordingly, but I go back to the fact that the marketplace is where these decisions ought to be made, and the functionality of a competitive marketplace dictates the degree of regulation."
+
+Wheeler's comment was made mere seconds after he said "we stand for an open Internet," and his comment seems to imply that the current FCC regulations already permit what he is describing, or at the very least Wheeler will seek to change those regulations. His comments immediately drew criticism from consumer advocacy groups who argued that Wheeler was seemingly advocating the exact opposite of net neutrality and countervaling the past decade of FCC policymaking.
+http://arstechnica.com/tech-policy/2013/12/fcc-chair-isps-should-be-able-to-charge-netflix-for-internet-fast-lane/
+
+Corporate Efforts
+==================
+The controversy between Comcast and the FCC is perhaps the most significant battle to date between an ISP and the regulatory body over net neutrality rules. Comcast's actions represent a direct challenge to the rules established by the FCC as well as the FCC's legal authority. Other industry stakeholders have proposed their own plans seeking compromises on net neutrality.
+
+A group of Internet service providers along with Microsoft, Intel, and Google came together to create the Broadband Internet Technical Advisory Group (BITAG or TAG) in 2010. The BITAG was comprised of engineers from the member corporations. The group's stated goal was to evaluate new technologies and try to predit the consequences for end users. The effort seemed to be the industry's attempt to self-regulate.
+http://gigaom.com/2010/06/09/lets-get-technical-new-broadband-technical-advisory-group-formed/
+
+Corporations take issue with net neutrality primarily because they want do not want to be hindered by law and regulation in efforts to maintain and operate efficient, reliable, and profitable networks. In a 2005 interview with Edward Whitacre, then the CEO of SBC (which soon acquired AT&T), stated his point of view in no uncertain terms.
+
+Q: "How concerned are you about Internet upstarts like Google (GOOG ), MSN, Vonage, and others?"
+A: "How do you think they're going to get to customers? Through a broadband pipe. Cable companies have them. We have them. Now what they would like to do is use my pipes free, but I ain't going to let them do that because we have spent this capital and we have to have a return on it. So there's going to have to be some mechanism for these people who use these pipes to pay for the portion they're using. Why should they be allowed to use my pipes?
+
+The Internet can't be free in that sense, because we and the cable companies have made an investment and for a Google or Yahoo! or Vonage or anybody to expect to use these pipes [for] free is nuts!"
+http://arstechnica.com/uncategorized/2005/10/5498-2/
+
+Verizon/Google Proposal - 2010
+-------------------------------
+In August 2010, Google and Verizon released a joint proposal for a framework that could be used to guide the create of future legislation. Their proposed framework parroted policies from the FCC's Open Internet Order. ISPs should not prevent their users from: sending and receiving lawful content; running lawful applications and services; and connecting legal devices that do not degrade the network and do not facilitate illegal activies. The proposal also included clauses about increasing transparency regarding ISPs' policies, ensuring non-discrimination of content, and appropriate network management. The network management paragraph provided for "[r]easonable network management includes any technically sound practice". The subject of wireless broadband was also briefly touched on but only insofar as to apply increased transparency of how it is managed. 
+
+The proposal granted limited regulatory authority to the FCC. It provided for case-by-case enforcement of consumer protection and non-discrimination rules, but specifically stated that the FCC "would have norulemaking authority with respect to those provisions". The other major concession to the FCC was that the body "would have exclusive authority to oversee broadband Internetaccess service, but would not have any authority over Internet software applications, content or services".
+http://www.scribd.com/doc/35599242/Verizon-Google-Legislative-Framework-Proposal
+
+Critics of the proposal pointed out that, though it seems to superficially support net neutrality, the proposal makes exemptions for "unlawful" content, for wireless services, and for "additional online services" - all vaguely defined in the proposal. Critics argued that these three major exceptions could ultimately be the loopholes that ISPs use to completely circumvent net neutrality.
+https://www.eff.org/deeplinks/2010/08/google-verizon-netneutrality
+
+AT&T - 2012
+------------
+http://www.bloomberg.com/news/2012-02-14/at-t-must-give-beastie-boy-a-vote-on-net-neutrality-sec-decides.html
+http://www.theverge.com/2012/2/15/2799625/sec-wireless-net-neutrality-shareholder-vote
+http://www.theverge.com/2012/4/27/2980859/att-stockholders-vote-down-net-neutrality-proposal
+http://www.forbes.com/sites/larrydownes/2012/04/12/att-verizon-and-sprint-net-neutrality-proposals-simply-awful/
+
+Right To Run Servers
+---------------------
+http://www.forbes.com/sites/larrydownes/2012/04/12/att-verizon-and-sprint-net-neutrality-proposals-simply-awful/
+https://www.eff.org/deeplinks/2013/08/google-fiber-continues-awful-isp-tradition-banning-servers
+http://arstechnica.com/information-technology/2013/07/google-we-can-ban-servers-on-fiber-without-violating-net-neutrality/
+
+United Nations and the International Telecommunication Union
+-------------------------------------------------------------
+http://www.wired.com/opinion/2012/11/head-of-itu-un-should-internet-regulation-effort/
+http://www.digitaltrends.com/web/united-nations-wcit-itu-internet-takeover-thing/
+http://arstechnica.com/tech-policy/2012/11/google-rallies-opposition-to-un-takeover-of-internet-governance/
+http://www.slate.com/blogs/trending/2012/12/06/united_nations_internet_takeover_congress_tells_dubai_conference_it_has.html
+http://www.techdirt.com/articles/20120606/11152719224/threat-un-internet-takeover-is-only-vague-because-un-shares-no-details.shtml
+
+
+Internet As A Public Utility
+=============================
+In early 2013, a German court ruled that Internet subscribes have the right to compensation from their ISPs if their Internet access is disrupted. The court considered the Internet to be an "essential" part of the lives of Germans; even going as far as to say that the "loss of use of the Internet is comparable to the loss of use of a car". http://www.reuters.com/article/2013/01/24/us-germany-internet-idUSBRE90N15H20130124
+
+The status of the Internet in the daily lives of connected Americans is not so clear-cut. There is no law or court document saying that Internet access is a fundamental right for Americans. Though some have begun to call for the Internet be treated and regulated as a public utility. Around the same time as the German court's ruling, Steve Cooper, a contributor to Forbes.com, wrote an article titled "The Internet Is A 21st Century Utility And We Deserve Better" that critical of American progress towards universal access as well as increased speeds. He noted that the U.S.'s connection speed ranks 9th in the world. http://www.forbes.com/sites/stevecooper/2013/01/29/the-internet-is-a-21st-century-utility-and-we-deserve-better/
+
+Susan Crawford, a professor at Cardozo Law School who focuses on technology policy, wrote in her 2013 book: 
+
+"Truly high-speed wired Internet access is as basic to innovation, economic growth, social communication, and the country’s competitiveness as electricity was a century ago, but a limited number of Americans have access to it, many can’t afford it, and the country has handed control of it over to Comcast and a few other companies."
+
+Crawford believes that it is the federal government's duty to make sure that each citizen has access to low-cost Internet connectivity in the same way that everyone has access to water nd electricity. She argues: "We treated the telephone industry like a utility and people don’t seem to be surprised by that. High-speed Internet access plays the same role in American life. It’s just that these guys have succeeded in making us think that it’s a luxury." 
+
+http://business.time.com/2013/01/09/is-broadband-internet-access-a-public-utility/
+
+But the regulation and government involvement that Crawford is calling for seems to be a long way from reality. Though issues of lowering prices and increasing access are not necessarily connected to the net neutrality debate, the points Crawford raises are still ultimately tied to the same central conflict as net neutrality: the relationship between corporations, the marketplace, and the federal government. The Internet-as-public-good and net neutrality debates both emphasize the lack of regulation for a medium as important and swiftly growing as the Internet.
+
+Technology and Principles
+==========================
+The core technology that enables Internet services providers to discriminate and prioritize individual packets travelling through their networks is deep packet inspection (DPI). In the past few years, networking hardware manufactures have started making firewalls that implement DPI. These firewalls analyze the headers and payload of every packet passing through. DPI-equipped firewalls can discriminate between packets from different applications and services, accepting, rejecting, or prioritizing packets based on a ruleset provided by the network administrator. DPI considers information from the network, transport, session, presentation, and application OSI layers. DPI's analysis of a packet's payload is a major improvement over "shallow inspection," which only looked at a packet's headers and made decisions based on the obvious details like source or destination IP addresses and port numbers. 
+http://www.symantec.com/connect/articles/perils-deep-packet-inspection
+
+DPI has a wide variety of uses in any network. It can defend against distributed denial of service attacks, detect viruses being transferred to a computer behind a firewall, or even effortlessly separate specific traffic for analysis by law enforcement. By analyzing traffic at the application layer, a network administrator using DPI hardware could detect packets specific to Gmail and even reconstruct emails belonging to that account.
+
+In the context of net neutrality, DPI could be used by ISPs to categorize the different types of data that they might wish to prioritize over other traffic. If an ISP prioritizes its users' streaming video over VoIP, then DPI allows ISPs to distinguish between the two kinds of packets and apply the ISP's ruleset. These capabilities are exactly what advocates of net neutrality fear when they describe "unreasonable discrimination". Currently, such discrimination is rare because few ISPs have adopted widespread DPI and the legal framework for such policies is still in question. 
+http://arstechnica.com/gadgets/2007/07/deep-packet-inspection-meets-net-neutrality/
+
+The design of the global Internet and World Wide Web is inherently neutral, a feature implicitly derived from two key design features of both systems: the TCP/IP protocol suite and the end-to-end principle. 
+
+CONCLUSION
+- CONFLICTS OF INTEREST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
