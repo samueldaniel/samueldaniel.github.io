@@ -129,9 +129,9 @@ The controversy between Comcast and the FCC is perhaps the most significant batt
 A group of Internet service providers along with Microsoft, Intel, and Google came together to create the Broadband Internet Technical Advisory Group (BITAG or TAG) in 2010. The BITAG was comprised of engineers from the member corporations. The group's stated goal was to evaluate new technologies and try to predit the consequences for end users. The effort seemed to be the industry's attempt to self-regulate.
 http://gigaom.com/2010/06/09/lets-get-technical-new-broadband-technical-advisory-group-formed/
 
-Corporations take issue with net neutrality primarily because they want do not want to be hindered by law and regulation in efforts to maintain and operate efficient, reliable, and profitable networks. In a 2005 interview with Edward Whitacre, then the CEO of SBC (which soon acquired AT&T), stated his point of view in no uncertain terms.
+Corporations take issue with net neutrality primarily because they want do not want to be hindered by law and regulation in efforts to maintain and operate efficient, reliable, and profitable networks. In a 2005 interview with Edward Whitacre, then the CEO of SBC (which soon acquired AT&T), stated his point of view in no uncertain terms:
 
-Q: "How concerned are you about Internet upstarts like Google (GOOG ), MSN, Vonage, and others?"
+Q: "How concerned are you about Internet upstarts like Google, MSN, Vonage, and others?"
 A: "How do you think they're going to get to customers? Through a broadband pipe. Cable companies have them. We have them. Now what they would like to do is use my pipes free, but I ain't going to let them do that because we have spent this capital and we have to have a return on it. So there's going to have to be some mechanism for these people who use these pipes to pay for the portion they're using. Why should they be allowed to use my pipes?
 
 The Internet can't be free in that sense, because we and the cable companies have made an investment and for a Google or Yahoo! or Vonage or anybody to expect to use these pipes [for] free is nuts!"
@@ -139,7 +139,8 @@ http://arstechnica.com/uncategorized/2005/10/5498-2/
 
 Verizon/Google Proposal - 2010
 -------------------------------
-In August 2010, Google and Verizon released a joint proposal for a framework that could be used to guide the create of future legislation. Their proposed framework parroted policies from the FCC's Open Internet Order. ISPs should not prevent their users from: sending and receiving lawful content; running lawful applications and services; and connecting legal devices that do not degrade the network and do not facilitate illegal activies. The proposal also included clauses about increasing transparency regarding ISPs' policies, ensuring non-discrimination of content, and appropriate network management. The network management paragraph provided for "[r]easonable network management includes any technically sound practice". The subject of wireless broadband was also briefly touched on but only insofar as to apply increased transparency of how it is managed. 
+In August 2010, Google and Verizon released a joint proposal for a framework that could be used to guide the create of future legislation. Their proposed framework parroted policies from the FCC's Open Internet Order. ISPs should not prevent their users from: sending and receiving lawful content; running lawful applications and services; and connecting legal devices that do not degrade the network and do not facilitate illegal activies. The proposal also included clauses about increasing transparency regarding ISPs' policies, ensuring non-discrimination of content, and appropriate network management. The network management paragraph provided for "[r]easonable network management includes any technically sound practice". The subject of wireless broadband was also briefly touched on but only insofar as to apply increased transparency of how it is managed.
+http://www.scribd.com/doc/35599242/Verizon-Google-Legislative-Framework-Proposal
 
 The proposal granted limited regulatory authority to the FCC. It provided for case-by-case enforcement of consumer protection and non-discrimination rules, but specifically stated that the FCC "would have norulemaking authority with respect to those provisions". The other major concession to the FCC was that the body "would have exclusive authority to oversee broadband Internetaccess service, but would not have any authority over Internet software applications, content or services".
 http://www.scribd.com/doc/35599242/Verizon-Google-Legislative-Framework-Proposal
@@ -147,35 +148,38 @@ http://www.scribd.com/doc/35599242/Verizon-Google-Legislative-Framework-Proposal
 Critics of the proposal pointed out that, though it seems to superficially support net neutrality, the proposal makes exemptions for "unlawful" content, for wireless services, and for "additional online services" - all vaguely defined in the proposal. Critics argued that these three major exceptions could ultimately be the loopholes that ISPs use to completely circumvent net neutrality.
 https://www.eff.org/deeplinks/2010/08/google-verizon-netneutrality
 
-AT&T - 2012
-------------
+AT&T, Verizon, Spring, and the SEC - 2012
+------------------------------------------
+In early 2012, the Securities and Exchange Commission publicly voiced its support for net neutrality, stating that the principle had become "a significant policy consideration". Previously, the SEC had deemed that net neutrality proposals would affect the day-to-day operations of a company and thus were exempt from shareholder voting. But the SEC's 2012 statement declared that AT&T, Verizon, and Sprint must now include proposals to "publicly commit to operate its wireless broadband network consistent with network neutrality principle" in their next rounds of shareholder voting.
 http://www.bloomberg.com/news/2012-02-14/at-t-must-give-beastie-boy-a-vote-on-net-neutrality-sec-decides.html
-http://www.theverge.com/2012/2/15/2799625/sec-wireless-net-neutrality-shareholder-vote
-http://www.theverge.com/2012/4/27/2980859/att-stockholders-vote-down-net-neutrality-proposal
+
+All three companies recommended "no" votes to their shareholders. Over 94% of AT&T's shareholders and 96% of Verizon's shareholders rejected the proposal to implement net neutrality rules within the companies' mobile networks. These decisions obviously disappointed the net neutrality advocates who had lobbied the SEC into forcing the issue onto the ballot. But the results of the vote are consistent with the FCC's Open Internet Order of 2010.
+http://thehill.com/blogs/hillicon-valley/technology/226807-verizon-shareholders-vote-down-net-neutrality-proposal 
 http://www.forbes.com/sites/larrydownes/2012/04/12/att-verizon-and-sprint-net-neutrality-proposals-simply-awful/
 
-Right To Run Servers
----------------------
-http://www.forbes.com/sites/larrydownes/2012/04/12/att-verizon-and-sprint-net-neutrality-proposals-simply-awful/
-https://www.eff.org/deeplinks/2013/08/google-fiber-continues-awful-isp-tradition-banning-servers
+Servers
+--------
+Much to the chagrin of net neutrality advocates, it has long been standard practice for Internet service providers to ban consumers from operating their own servers of any kind through their connections.  ISPs claim that this policy is not actually a violation of the net neutrality rules established by the Open Internet Order. They argure that banning servers is a "...a legitimate 
+[network] management practice" allowed by the Order. Some ISPs even classify peer-to-peer applications as a form of server and claim that they can legally ban such usage as well. Most ISPs do offer business class services that allow servers to be operated.
 http://arstechnica.com/information-technology/2013/07/google-we-can-ban-servers-on-fiber-without-violating-net-neutrality/
 
-United Nations and the International Telecommunication Union
--------------------------------------------------------------
-http://www.wired.com/opinion/2012/11/head-of-itu-un-should-internet-regulation-effort/
-http://www.digitaltrends.com/web/united-nations-wcit-itu-internet-takeover-thing/
-http://arstechnica.com/tech-policy/2012/11/google-rallies-opposition-to-un-takeover-of-internet-governance/
-http://www.slate.com/blogs/trending/2012/12/06/united_nations_internet_takeover_congress_tells_dubai_conference_it_has.html
-http://www.techdirt.com/articles/20120606/11152719224/threat-un-internet-takeover-is-only-vague-because-un-shares-no-details.shtml
+Though the Open Internet Order's rules state that "fixed broadband providers may not block lawful content, applications, services, or non-harmful devices" it is easy to see the argument that ISPs may make against servers: any sufficiently high-traffic server could be considered harmful to the overall quality of the network. 
 
+Critics of such policies feel that ISPs' definitions of a "server" are purposefully vague. The ban on servers is seen to represent "a power grab by ISPs that damages user freedom and chills innovation of different types of Internet-based technologies that don't follow the traditional centralized model". 
+https://www.eff.org/deeplinks/2013/08/google-fiber-continues-awful-isp-tradition-banning-servers
+
+In the summer of 2013, Google formally issued the terms of service for its new Google Fiber broadband service, which included a complete ban on any and all servers being operated on the Fiber network. Facing a torrent of criticism, Google stated that its policy was in line with established industry standards. Google stood by its decision until the fall of 2013, when it finally amended its Acceptable Use Policy to included "personal, non-commercial use of servers...including using virtual private networks (VPN) to access services in your home and using hardware or applications that include server capabilities for uses like multi-player gaming, video-conferencing, and home security".
+https://support.google.com/fiber/answer/2659981?hl=en&topic=2440874&ctx=topic
+http://www.wired.com/threatlevel/2013/07/google-neutrality/
+https://www.eff.org/deeplinks/2013/08/google-fiber-continues-awful-isp-tradition-banning-servers
+
+Google's policy change is seen as a victory for net neutrality, however, there seems to be little hope that any other ISPs, especially companies like Comcast, Verizon, or AT&T, will change their server policies in the foreseeable future.
 
 Internet As A Public Utility
 =============================
 In early 2013, a German court ruled that Internet subscribes have the right to compensation from their ISPs if their Internet access is disrupted. The court considered the Internet to be an "essential" part of the lives of Germans; even going as far as to say that the "loss of use of the Internet is comparable to the loss of use of a car". http://www.reuters.com/article/2013/01/24/us-germany-internet-idUSBRE90N15H20130124
 
-The status of the Internet in the daily lives of connected Americans is not so clear-cut. There is no law or court document saying that Internet access is a fundamental right for Americans. Though some have begun to call for the Internet be treated and regulated as a public utility. Around the same time as the German court's ruling, Steve Cooper, a contributor to Forbes.com, wrote an article titled "The Internet Is A 21st Century Utility And We Deserve Better" that critical of American progress towards universal access as well as increased speeds. He noted that the U.S.'s connection speed ranks 9th in the world. http://www.forbes.com/sites/stevecooper/2013/01/29/the-internet-is-a-21st-century-utility-and-we-deserve-better/
-
-Susan Crawford, a professor at Cardozo Law School who focuses on technology policy, wrote in her 2013 book: 
+The status of the Internet in the daily lives of connected Americans is not so clear-cut. There is no law or court document saying that Internet access is a fundamental right for Americans. Though some have begun to call for the Internet be treated and regulated as a public utility. Susan Crawford, a professor at Cardozo Law School who focuses on technology policy, wrote in her 2013 book: 
 
 "Truly high-speed wired Internet access is as basic to innovation, economic growth, social communication, and the country’s competitiveness as electricity was a century ago, but a limited number of Americans have access to it, many can’t afford it, and the country has handed control of it over to Comcast and a few other companies."
 
@@ -185,8 +189,24 @@ http://business.time.com/2013/01/09/is-broadband-internet-access-a-public-utilit
 
 But the regulation and government involvement that Crawford is calling for seems to be a long way from reality. Though issues of lowering prices and increasing access are not necessarily connected to the net neutrality debate, the points Crawford raises are still ultimately tied to the same central conflict as net neutrality: the relationship between corporations, the marketplace, and the federal government. The Internet-as-public-good and net neutrality debates both emphasize the lack of regulation for a medium as important and swiftly growing as the Internet.
 
+Global Interconnections and Over-The-Top Services
+--------------------------------------------------
+A fundamental and often overlooked component of the Internet is its very backbone infrastructure and the interconnections between large regional networks. In order to create a truly global Internet, ISPs all over the world must agree to interconnect their networks. As the Internet continues to grow and traffic steadily increases across these interconnections, companies have no choice but to upgrade their hardware. When an upgrade is deemed necessary at a certain interconnection, the companies involved negotiate who should be financially responsible for the upgrade: if more traffic is flowing from company A to company B than from B to A, then company B will most likely insist that company A finance the hardware upgrades. If company A refuses and the upgrade is delayed, then traffic will continue to pile up at an already congested interconnection and degrade the overall quality service for users all over the world.
+http://arstechnica.com/information-technology/2013/07/why-youtube-buffers-the-secret-deals-that-make-and-break-online-video/
+
+The Open Internet Order of 2010 makes a single reference to such interconnections: "We do not intend our rules to affect existing arrangements for network interconnection, including existing paid peering arrangements." The FCC seems to be purposefully removing itself from a critical component of Internet regulation. When the quality of interconnections degrades and the parties involved cannot come to an agreement, only the consumer truly suffers.
+http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-10-201A1_Rcd.pdf
+
+For large companies like Google or Netflix who do not own and operate backbone infrastructure but still produce an enormous amount of traffic, the only way they can provide their services to the greatest number of users at the highest possible quality is to strike deals with the companies that control interconnections. For example, Netflix can offer to connect caching hardware to the backbone providers and ISPs. But if an ISP refuses to connect a Netflix caching server (or Netflix refuses to pay the fee that the ISP demands), then Netflix must host its own caching server and customers of that ISP will get worse Netflix performance. When Netflix and an ISP do reach an agreement, Netflix becomes an "over-the-top" service (OTT). Traffic to and from Netflix essentially sits on top of other traffic and travels much quicker because packets flowing between the Netflix cache and a customer of that ISP do not have to make as many hops across the network as they normally might.
+http://www.itu.int/en/wcit-12/Documents/WCIT-background-brief11.pdf
+http://arstechnica.com/information-technology/2013/07/why-youtube-buffers-the-secret-deals-that-make-and-break-online-video/
+
+The existence of OTT Internet services creates another interesting challenge for net neutrality. An OTT's services will certainly outperform similar non-OTT services; and this is entirely because the OTT service reached an agreement with an ISP. This is not necessarily due to the direct preferential treatment of individual packets but rather a consequence of geographic proximity, in most cases. Whether or not this is a violation of net neutrality is still an unanswered question.
+
 Technology and Principles
 ==========================
+Deep Packet Inspection and the End-To-End Principle
+-----------------------------------------------------
 The core technology that enables Internet services providers to discriminate and prioritize individual packets travelling through their networks is deep packet inspection (DPI). In the past few years, networking hardware manufactures have started making firewalls that implement DPI. These firewalls analyze the headers and payload of every packet passing through. DPI-equipped firewalls can discriminate between packets from different applications and services, accepting, rejecting, or prioritizing packets based on a ruleset provided by the network administrator. DPI considers information from the network, transport, session, presentation, and application OSI layers. DPI's analysis of a packet's payload is a major improvement over "shallow inspection," which only looked at a packet's headers and made decisions based on the obvious details like source or destination IP addresses and port numbers. 
 http://www.symantec.com/connect/articles/perils-deep-packet-inspection
 
@@ -195,12 +215,37 @@ DPI has a wide variety of uses in any network. It can defend against distributed
 In the context of net neutrality, DPI could be used by ISPs to categorize the different types of data that they might wish to prioritize over other traffic. If an ISP prioritizes its users' streaming video over VoIP, then DPI allows ISPs to distinguish between the two kinds of packets and apply the ISP's ruleset. These capabilities are exactly what advocates of net neutrality fear when they describe "unreasonable discrimination". Currently, such discrimination is rare because few ISPs have adopted widespread DPI and the legal framework for such policies is still in question. 
 http://arstechnica.com/gadgets/2007/07/deep-packet-inspection-meets-net-neutrality/
 
-The design of the global Internet and World Wide Web is inherently neutral, a feature implicitly derived from two key design features of both systems: the TCP/IP protocol suite and the end-to-end principle. 
+The end-to-end principle is implicit in the overall design of the Internet. While application-level details were left to the clients and servers scattered all around the world, the Internet's lower level infrastructure was implemented in accordance with the end-to-end principle: to "provide only resources of broad utility across applications, while providing to applications useable means for effective sharing of resources and resolution of resource conflicts (network transparency)". 
+http://web.mit.edu/Saltzer/www/publications/endtoend/ANe2ecomment.html
 
-CONCLUSION
-- CONFLICTS OF INTEREST
+DPI itself does not violate the end-to-end principle. But the widespread introduction of deep packet inspection into the Internet's infrastructure would make resource sharing and conflict resolution at a lower level much more difficult. In the worst case scenario, all of the nodes implementing DPI would each produce different rulesets for their filters. Every node might share resources and resolve conflict differently from any other node. This dramatically complicates how to model the flow of data across the Internet writ large and might hinder future development and growth.
 
+Net Neutrality and TCP/IP
+--------------------------
+An important feature of the IP protocol is that two sequentially packets, from the same source and headed to the same destination, may not take the same exact path through the Internet to complete their journeys. Whenever an IP node in the bowels of the Internet receives a packet, it makes a decision about where to send that packet. Sophisticated routing algorithms can measure traffic and send packets to low traffic nodes. But a simplistic implementation will rotate through a list of possible next steps, sending one packet to each location.  If some node breaks down, others can simply send traffic elsewhere and the TCP/IP protocol suite guarantees that it will eventually get to the appropriate destination. The IP protocol does not play favorites: it was built to deal with indiscriminate hops from one node to another. 
+http://www.yale.edu/pclt/COMM/TCPIP.HTM
 
+In a world without net neutrality, then the TCP/IP model of the Internet would not be as effective as it is today. For example, say the ISP A sometimes sends packets to nodes controlled by ISP B. But ISP B, thanks to a lack of net neutrality regulation, has decided to downgrade the speed of - or even block - packets coming to it from ISP A. This would mean that ISP A's customers would experience a drop in their quality of service. In order to compensate, ISP A might have to force its routers to send more traffic to the more neighborly ISP C. Now ISP C is getting more traffic than ever before from ISP A, which is beginning to affect the quality of service of its own customers. Naturally, ISP C will be forced to treat traffic from ISP A unfavorably.
+
+This vicious cycle forces ISPs to funnel all of their traffic through a limited pipeline rather than the larger Internet, thus entirely defeating the purpose of the TCP/IP implementation.
+
+Conclusion
+===========
+The future of net neutrality in the United States is impossible to predict. In the past ten years, so many different efforts to impose net neutrality on the Internet have tried and failed. The idea has seen support in Congress, from the FCC, from the public and within industry, but it simultaneously faces intense opposition from within those very groups.
+
+A primary challenge facing net neutrality is adapting to the ever-changing landscape of the Internet. In 2009, Comcast sought to buyout General Electric's majority stake in NBC. When the deal was announced, speculation abounded about whether the federal government would perform an antitrust investigation into the new pairing of one of the country's largest content owners with one of the country's largest distribution networks. Observers decried the possibility of a merger, arguing that it was a threat to net neutrality and the World Wide Web as a whole. Senator Al Franken used the opportunity to criticize the FCC's Open Internet Order for not being strong enough. On Comcast-NBC specifically, he said "I believe we are facing and will continue to face a growing threat of corporate control on the flow of information in our country".
+http://www.pcmag.com/article2/0,2817,2376052,00.asp
+http://www.dailyfinance.com/2009/10/01/comcast-and-nbc-universal-antitrust-apocalypse/ 
+
+Without rigorously enforced net neutrality, it seems easy to imagine nightmare scenarios resulting from the union of Comcast and NBC. In order to protect and promote its investment, Comcast might prioritize packets containing NBC content from its own xFinity service over those of, say, YouTube or Netflix; or might even block those websites entirely, putting them behind an extra paywall.
+
+In January 2011, the FCC, voting 4 to 1, approved the Comcast-NBC merger, with the lone dissenter saying "At the end of the day, the public interest requires more -- much more -- than it is receiving".
+http://money.cnn.com/2011/01/18/technology/fcc_comcast_nbc/
+To make matters worse, by May, one of the FCC commissiorers who had voted for the merger, Meredith Attwell Baker, had announced her plans to leave the FCC for an executive position within Comcast.
+
+When President Obama appointed a new Chairman of the FCC in 2013, he chose someone with strong telecommunications ties. And that same chairman's publicly stated views about net neutrality run counter to the Open Internet Order.
+
+If any progress is to be made in ensuring net neutrality's place in the Internet, then a middle-ground must be found between industry and government, profit margins and fairness. 
 
 
 
