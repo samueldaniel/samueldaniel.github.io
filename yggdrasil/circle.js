@@ -54,7 +54,7 @@ Circle.prototype.intersectsPadding = function(padding, circle) {
 
 Circle.prototype.generateNoOverlapping = function (circles) {
   var overlap = function(c) {
-    return _.some(circles, _.partial(c.intersectsPadding, 20));
+    return _.some(circles, _.partial(c.intersectsPadding, 40));
   }
   var c;
   do {
