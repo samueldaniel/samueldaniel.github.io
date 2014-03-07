@@ -31,7 +31,7 @@ Circle.prototype.generateOneWithin = function() {
     var d = r * 2;
     var x = Math.floor(Math.random() * (x_max - x_min + 1)) + x_min;
     var y = Math.floor(Math.random() * (y_max - y_min + 1)) + y_min;
-    test_circle = new Circle(x, y, r, d);
+    test_circle = new Circle(x, y, r, d, r / 2);
   } while (!this.fits(test_circle))
   return test_circle;
 }
@@ -48,7 +48,7 @@ Circle.prototype.intersects = function (circle) {
 
 Circle.prototype.intersectsPadding = function(padding, circle) {
   var padded_r = circle.r + padding;
-  var c = new Circle(circle.cx, circle.cy, padded_r, padded_r * 2);
+  var c = new Circle(circle.cx, circle.cy, padded_r, padded_r * 2, padded_r / 2);
   return this.intersects(c); 
 }
 

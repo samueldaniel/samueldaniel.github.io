@@ -2,21 +2,30 @@ width = 500;
 height = 500;
 
 window.onload = function() {
-  var encompassing = new Circle(250, 250, 250, 500);
-  var cs = encompassing.kCircles(20);
-
+  var color = d3.scale.category20();
+  var encompassing = new Circle(250, 200, 150, 300);
+  var cs = _.sortBy(encompassing.kCircles(8), function (c) { return c.r; }).reverse();
+  console.log(cs);
   var svg = d3.select("#tree")
               .attr("width", width)
-              .attr("height", height);
-  var nodes = svg.selectAll("node")
+              .attr("height", height)
+              .attr("overflow", "visible");
+  var nodes = svg.selectAll("g")
                  .data(cs)
                  .enter()
-                 .append("circle")
-                 .attr("cx", function (d) { return d.cx; })
-                 .attr("cy", function (d) { return d.cy; })
-                 .attr("r", function (d) { return d.r; })
-                 .attr("stroke", "black")
-                 .attr("stroke-width", function (d) { return d.r / 2; })
-                 .attr("fill", "grey");
+                 .append("g");
+  nodes.append("circle")
+       .attr("cx", function (d) { return d.cx; })
+       .attr("cy", function (d) { return d.cy; })
+       .attr("r", function (d) { return d.r; })
+       .attr("stroke", "black")
+       .attr("stroke-width", function (d) { return d.s_w; })
+       .attr("fill", function (d, i) { return color(i); });
+  nodes.append("text")
+       .attr("x", function (d) { return d.cx; })
+       .attr("y", function (d) { return d.cy; })
+       .text(function (d, i) { return i;})
+
+
 
 }
