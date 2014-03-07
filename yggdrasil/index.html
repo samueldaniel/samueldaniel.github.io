@@ -3,14 +3,14 @@
     <title>yggdrasil</title>
     <script type="text/javascript" src="underscore.js"></script>
     <script type="text/javascript" src="jquery.min.js"></script>
-    <script type="text/javascript" src="svg.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
     <script type="text/javascript" src="circle.js"></script>
     <script type="text/javascript" src="yggdrasil.js"></script>
     <style type="text/css">
-      #tree {
+      #container {
         margin: 0 auto;
-        width: 500px;
-        height: 500px;
+        width: 500;
+        height: 500;
         border: none;
         /*background-image: url("fitted.png");*/
         background-repeat: no-repeat;
@@ -18,7 +18,9 @@
     </style>
   </head>
   <body>
-    <div id="tree"></div>
+    <div id="container">
+      <svg id="tree"></svg>
+    </div>
   </body>
 </html>
 
